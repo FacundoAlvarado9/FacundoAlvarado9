@@ -5,7 +5,7 @@ Short intro to my profile:
 
 Latest I've been working on is ⤵️
 
-- Cafeando ☕, an individual project for Uni. 
+- Cafeando ☕, an solo project for Uni. 
   - Just a specialty coffee repo, featuring a few roasteries from Argentina
   - Backend in Laravel [(Repo here)](https://github.com/iaw-2022/FacundoAlvarado9-laravel)
   - API using Node.js, Express.js & Prisma [(Repo here)](https://github.com/iaw-2022/FacundoAlvarado9-api) [(Live Demo here)](https://cafeando-api.herokuapp.com)
