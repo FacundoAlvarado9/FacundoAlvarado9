@@ -10,9 +10,6 @@ Latest I've been working on is ⤵️
   - Backend in Laravel [(Repo here)](https://github.com/iaw-2022/FacundoAlvarado9-laravel)
   - API using Node.js, Express.js & Prisma [(Repo here)](https://github.com/iaw-2022/FacundoAlvarado9-api) [(Live Demo here)](https://cafeando-api.herokuapp.com)
   - Frontend using React [(Repo here)](https://github.com/iaw-2022/FacundoAlvarado9-js) [(Live Demo here)](https://cafeando-front-deploy.vercel.app)
-  
-- Songs Info App 📲, also for Uni, this time a group project. [(Repo here)](https://github.com/elagarrigue/AyDS22-AK-NewYork2)
-  - Android App that lets you get basic data about a song and articles related to the artist on Wikipedia, LastFM, and the New York Times
 
 Started coding a few years ago, so the further back in time you go, the messier the code gets 🤣 . Be careful!
 
