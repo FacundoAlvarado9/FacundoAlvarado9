@@ -7,8 +7,8 @@ Latest I've been working on is ⤵️
 
 - Cafeando ☕, a solo project for Uni. 
   - Just a specialty coffee repo, featuring a few roasteries from Argentina
-  - Backend in Laravel [(Repo here)](https://github.com/iaw-2022/FacundoAlvarado9-laravel)
-  - API using Node.js, Express.js & Prisma [(Repo here)](https://github.com/iaw-2022/FacundoAlvarado9-api) [(Live Demo here)](https://cafeando-api.herokuapp.com)
+  - Backend in Laravel [(Repo here)](https://github.com/FacundoAlvarado9/cafeando-backend)
+  - API using Node.js, Express.js & Prisma [(Repo here)](https://github.com/FacundoAlvarado9/cafeando-api) [(Live Demo here)](https://cafeando-api.herokuapp.com)
   - Frontend using React [(Repo here)](https://github.com/iaw-2022/FacundoAlvarado9-js) [(Live Demo here)](https://cafeando-front-deploy.vercel.app)
 
 Started coding a few years ago, so the further back in time you go, the messier the code gets 🤣 . Be careful!
