@@ -13,7 +13,7 @@ Latest I've been working on is ⤵️
 
 Started coding a few years ago, so the further back in time you go, the messier the code gets 🤣 . Be careful!
 
-**📫 For any formal inquiries**, hit me up at facundo.alvarado@st.ovgu.de
+**📫 For any formal inquiries**, hit me up at facundoalvarado9@gmail.com
 
 🔎 You can also [find me on Linkedin](https://www.linkedin.com/in/facundoalvarado9/)
 
