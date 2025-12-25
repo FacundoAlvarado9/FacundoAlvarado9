@@ -2,17 +2,11 @@
 <h3 align="center">A Software Engineering student from Argentina 🇦🇷.</h3>
 
 #### Latest stuff
+- [EudypTS](https://github.com/FacundoAlvarado9/EudypTS): A Web-based tool for the visual comparison of time-series. Developed as the final thesis for my Soft. Eng. degree
 - [biot-savart-py](https://github.com/FacundoAlvarado9/biot-savart-py): humble implementation of the Biot-Savart's equation for a Physics class
 - [functional-prog-backup](https://github.com/FacundoAlvarado9/functional-prog-backup): just a repo for the Functional Programming class at the Uni Magdeburg (still needs some clean-up)
 - [visualization-master-task](https://github.com/FacundoAlvarado9/visualization-master-task): additional task for Master students at the Visualization lecture, also at the Uni Magdeburg
 
-#### Other cool projects
-- Cafeando ☕  (currently offline)
-  - Just a specialty coffee repository, featuring a few roasteries from Argentina
-  - Backend in Laravel [(Repo here)](https://github.com/FacundoAlvarado9/cafeando-backend)
-  - API using Node.js, Express.js & Prisma [(Repo here)](https://github.com/FacundoAlvarado9/cafeando-api) [(Live Demo here)](https://cafeando-api.herokuapp.com) *data is currently not being retrieved due to the DB being down, will solve that very soon :)*
-  - Frontend using React [(Repo here)](https://github.com/iaw-2022/FacundoAlvarado9-js) [(Live Demo here)](https://cafeando-front-deploy.vercel.app)
- 
 #### Drop me a line!
 
 **📫 For any formal inquiries**, hit me up at facundoalvarado9@gmail.com
