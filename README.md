@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Facundo</h3>
-<h3 align="center">A Software Engineering student from Argentina 🇦🇷.</h3>
+<h3 align="center">Software Engineer from Argentina 🇦🇷.</h3>
 
 #### Latest stuff
 - [EudypTS](https://github.com/FacundoAlvarado9/EudypTS): A Web-based tool for the visual comparison of time-series. Developed as the final thesis for my Soft. Eng. degree
