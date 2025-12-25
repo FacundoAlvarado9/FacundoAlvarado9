@@ -12,7 +12,3 @@
 **📫 For any formal inquiries**, hit me up at facundoalvarado9@gmail.com
 
 🔎 You can also [find me on Linkedin](https://www.linkedin.com/in/facundoalvarado9/)
-
-<img src="https://github-readme-stats.vercel.app/api?username=facundoalvarado9&rank_icon=github" alt="ovi" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=facundoalvarado9&show_icons=true&locale=en&layout=compact" alt="ovi" />
-
